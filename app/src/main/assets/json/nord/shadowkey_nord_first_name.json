@@ -1,0 +1,58 @@
+[
+	{
+		"value": "Branson",
+		"source": "Shadowkey",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Duvais",
+		"source": "Shadowkey",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Egrien",
+		"source": "Shadowkey",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Gravel",
+		"source": "Shadowkey",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Scythe",
+		"source": "Shadowkey",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Wulfbris",
+		"source": "Shadowkey",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Birgitta",
+		"source": "Shadowkey",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Teresa",
+		"source": "Shadowkey",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	}
+]

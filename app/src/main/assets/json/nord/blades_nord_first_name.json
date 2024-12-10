@@ -1,0 +1,121 @@
+[
+	{
+		"value": "Asuf",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Brold",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Guthrum",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Henrik",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jan",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jonathan",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Lond",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ollrod",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Rodulf",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Sirfing",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Thondar",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Thorbjold",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Vilfred",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Brynhildur",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Frenn",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Greidil",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Staki",
+		"source": "Blades",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	}
+]

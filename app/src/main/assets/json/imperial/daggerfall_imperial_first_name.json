@@ -1,0 +1,44 @@
+[
+	{
+		"value": "Cassynder",
+		"source": "Daggerfall",
+		"race": "Imperial",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Cephorus",
+		"source": "Daggerfall",
+		"race": "Imperial",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Pelagius",
+		"source": "Daggerfall",
+		"race": "Imperial",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Trabbatus",
+		"source": "Daggerfall",
+		"race": "Imperial",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Uriel",
+		"source": "Daggerfall",
+		"race": "Imperial",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Voragiel",
+		"source": "Daggerfall",
+		"race": "Imperial",
+		"gender": "Male",
+		"type": "First name"
+	}
+]

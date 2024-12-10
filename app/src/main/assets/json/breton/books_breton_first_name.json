@@ -1,0 +1,51 @@
+[
+	{
+		"value": "Amelia",
+		"source": "Books",
+		"race": "Breton",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Annag",
+		"source": "Books",
+		"race": "Breton",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Arzhela",
+		"source": "Books",
+		"race": "Breton",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Edgard",
+		"source": "Books",
+		"race": "Breton",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Riente",
+		"source": "Books",
+		"race": "Breton",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Taig",
+		"source": "Books",
+		"race": "Breton",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Vignac",
+		"source": "Books",
+		"race": "Breton",
+		"gender": "Male",
+		"type": "First name"
+	}
+]

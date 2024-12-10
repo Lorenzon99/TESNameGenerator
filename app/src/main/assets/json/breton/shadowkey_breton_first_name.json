@@ -1,0 +1,51 @@
+[
+	{
+		"value": "Almathea",
+		"source": "Shadowkey",
+		"race": "Breton",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Heather",
+		"source": "Shadowkey",
+		"race": "Breton",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Menlin",
+		"source": "Shadowkey",
+		"race": "Breton",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Meya",
+		"source": "Shadowkey",
+		"race": "Breton",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Rene",
+		"source": "Shadowkey",
+		"race": "Breton",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Trinket",
+		"source": "Shadowkey",
+		"race": "Breton",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Volstok",
+		"source": "Shadowkey",
+		"race": "Breton",
+		"gender": "Male",
+		"type": "First name"
+	}
+]

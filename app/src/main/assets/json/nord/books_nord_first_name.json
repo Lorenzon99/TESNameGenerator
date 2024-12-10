@@ -1,0 +1,114 @@
+[
+	{
+		"value": "Fenrig",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fruth",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Garthar",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Grundvik",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Guthrum",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Holgunn",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Isilr",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jorunn",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Roggvir",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Skegglund",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Thorbjolf",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torygg",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Vigrod",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingjard",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Lyris",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Mera",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	}
+]

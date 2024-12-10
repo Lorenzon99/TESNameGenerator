@@ -1,0 +1,72 @@
+[
+	{
+		"value": "Arielle",
+		"source": "Blades",
+		"race": "Breton",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Claire",
+		"source": "Blades",
+		"race": "Breton",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Gabrielle",
+		"source": "Blades",
+		"race": "Breton",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Lea",
+		"source": "Blades",
+		"race": "Breton",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Sorine",
+		"source": "Blades",
+		"race": "Breton",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Antoine",
+		"source": "Blades",
+		"race": "Breton",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Destane",
+		"source": "Blades",
+		"race": "Breton",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Edrien",
+		"source": "Blades",
+		"race": "Breton",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Louis",
+		"source": "Blades",
+		"race": "Breton",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Theodor",
+		"source": "Blades",
+		"race": "Breton",
+		"gender": "Male",
+		"type": "First name"
+	}
+]

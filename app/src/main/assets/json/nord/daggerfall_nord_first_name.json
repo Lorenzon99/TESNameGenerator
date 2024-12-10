@@ -1,0 +1,1822 @@
+[
+	{
+		"value": "Alald",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Alan",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Alar",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Alarik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Alarke",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Alarne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Aleld",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Alen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Alens",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Aler",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Alik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Alis",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Alorn",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Asgald",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Asgan",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Asgar",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Asgarik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Asgarke",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Asgarne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Asgeld",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Asgen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Asgens",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Asger",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Asgik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Asgis",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Asgorn",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Bjald",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Bjan",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Bjar",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Bjarik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Bjarke",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Bjarne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Bjeld",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Bjen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Bjens",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Bjer",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Bjik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Bjis",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Bjorn",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Erald",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Eran",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Erar",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Erarik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Erarke",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Erarne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ereld",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Eren",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Erens",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Erer",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Erik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Eris",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Erorn",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fenrald",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fenran",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fenrar",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fenrarik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fenrarke",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fenrarne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fenreld",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fenren",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fenrens",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fenrer",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fenrik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fenris",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Fenrorn",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Harald",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Haran",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Harar",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Hararik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Hararke",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Hararne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Hareld",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Haren",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Harens",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Harer",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Harik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Haris",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Harorn",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingmald",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingman",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingmar",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingmarik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingmarke",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingmarne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingmeld",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingmen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingmens",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingmer",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingmik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingmis",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ingmorn",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jurgald",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jurgan",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jurgar",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jurgarik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jurgarke",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jurgarne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jurgeld",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jurgen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jurgens",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jurger",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jurgik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jurgis",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Jurgorn",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Kjald",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Kjan",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Kjar",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Kjarik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Kjarke",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Kjarne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Kjeld",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Kjen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Kjens",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Kjer",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Kjik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Kjis",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Kjorn",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Mojald",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Mojan",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Mojar",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Mojarik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Mojarke",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Mojarne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Mojeld",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Mojen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Mojens",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Mojer",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Mojik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Mojis",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Mojorn",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Sorald",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Soran",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Sorar",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Sorarik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Sorarke",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Sorarne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Soreld",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Soren",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Sorens",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Sorer",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Sorik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Soris",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Sororn",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torbald",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torban",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torbar",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torbarik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torbarke",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torbarne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torbeld",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torben",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torbens",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torber",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torbik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torbis",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Torborn",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ulrald",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ulran",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ulrar",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ulrarik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ulrarke",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ulrarne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ulreld",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ulren",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ulrens",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ulrer",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ulrik",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ulris",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ulrorn",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Male",
+		"type": "First name"
+	},
+	{
+		"value": "Ana",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ane",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Anen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ania",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Anina",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Anne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ante",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Beta",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Bete",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Beten",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Betia",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Betina",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Betne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Bette",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Dora",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Dore",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Doren",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Doria",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Dorina",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Dorne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Dorte",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ella",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Elle",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ellen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ellia",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ellina",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ellne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ellte",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Hana",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Hane",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Hanen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Hania",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Hanina",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Hanne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Hante",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Hella",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Helle",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Hellen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Hellia",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Hellina",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Hellne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Hellte",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Inga",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Inge",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ingen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ingia",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ingina",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ingne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ingte",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Jyta",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Jyte",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Jyten",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Jytia",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Jytina",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Jytne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Jytte",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Kirsta",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Kirste",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Kirsten",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Kirstia",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Kirstina",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Kirstne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Kirstte",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Meta",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Mete",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Meten",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Metia",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Metina",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Metne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Mette",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Morga",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Morge",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Morgen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Morgia",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Morgina",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Morgne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Morgte",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Silla",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Sille",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Sillen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Sillia",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Sillina",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Sillne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Sillte",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ulla",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ulle",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ullen",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ullia",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ullina",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ullne",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	},
+	{
+		"value": "Ullte",
+		"source": "Daggerfall",
+		"race": "Nord",
+		"gender": "Female",
+		"type": "First name"
+	}
+]

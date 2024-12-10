@@ -1,0 +1,79 @@
+[
+	{
+		"value": "Stormcloak",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "",
+		"type": "Family name"
+	},
+	{
+		"value": "the Ready",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "",
+		"type": "Family name"
+	},
+	{
+		"value": "the Red",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "",
+		"type": "Family name"
+	},
+	{
+		"value": "the Skald-King",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "",
+		"type": "Family name"
+	},
+	{
+		"value": "the Unsteady",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "",
+		"type": "Family name"
+	},
+	{
+		"value": "Titanborn",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "",
+		"type": "Family name"
+	},
+	{
+		"value": "Wraithbane",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "",
+		"type": "Family name"
+	},
+	{
+		"value": "Bog-Trotter",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "",
+		"type": "Family name"
+	},
+	{
+		"value": "Cold-Fist",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "",
+		"type": "Family name"
+	},
+	{
+		"value": "One-Eye",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "",
+		"type": "Family name"
+	},
+	{
+		"value": "Three-Fingers",
+		"source": "Books",
+		"race": "Nord",
+		"gender": "",
+		"type": "Family name"
+	}
+]
