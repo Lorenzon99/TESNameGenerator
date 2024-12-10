@@ -28,7 +28,7 @@ class GeneratorFragment : Fragment() {
         _binding = FragmentGeneratorBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        val textView: TextView = binding.textHome
+        val textView: TextView = binding.textGenerator
         generatorViewModel.text.observe(viewLifecycleOwner) {
             textView.text = it
         }

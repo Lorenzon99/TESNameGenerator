@@ -28,7 +28,7 @@ class SavedFragment : Fragment() {
         _binding = FragmentSavedBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        val textView: TextView = binding.textNotifications
+        val textView: TextView = binding.textSaved
         savedViewModel.text.observe(viewLifecycleOwner) {
             textView.text = it
         }
